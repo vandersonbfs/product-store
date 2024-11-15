@@ -10,5 +10,5 @@ import { HeaderComponent } from './shered/components/header/header.component';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'product-store';
+  
 }
